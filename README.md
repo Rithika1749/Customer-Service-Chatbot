@@ -33,3 +33,19 @@ The chatbot can answer common customer queries such as:
 - Flask Web Interface
 - AI-powered Responses
 - Voice Assistant Integration
+## Project Structure
+
+Customer-Service-Chatbot/
+│
+├── chatbot.py
+├── requirements.txt
+├── README.md
+└── screenshots/
+
+## How to Run
+
+1. Install requirements:
+pip install -r requirements.txt
+
+2. Run:
+python chatbot.py

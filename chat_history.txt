@@ -1,0 +1,4 @@
+User: hi
+Bot: Hello! How can I help you today?
+User: hours
+Bot: We are open from 9 AM to 6 PM.
